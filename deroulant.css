@@ -3,8 +3,3 @@
   li:hover {background-color: #FFFF70;}
   li:hover ul.niveau2, li li:hover ul.niveau3 {display: block}
   li.plus {background-position:right; background-image: url(illustrations/fdroite.gif); background-repeat: no-repeat; border-bottom: 1px solid grey;}
-
-body
-{
-  background-color: radial-gradient(red, black)
-}
